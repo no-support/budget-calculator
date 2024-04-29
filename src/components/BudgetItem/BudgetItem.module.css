@@ -1,0 +1,19 @@
+.budgetItem {
+  display: flex;
+  padding: 0.75rem;
+  align-items: center;
+  border: 1px solid gray;
+}
+
+.budgetItem__title {
+  flex: 6 6 0;
+}
+.budgetItem__amount {
+  flex: 3 3 0;
+  color: gray;
+}
+.budgetItem__controls {
+  flex: 2 2 0;
+  display: flex;
+  justify-content: space-evenly;
+}

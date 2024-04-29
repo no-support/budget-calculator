@@ -1,0 +1,13 @@
+.budgetContainer {
+  background: white;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.budgetItemContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}

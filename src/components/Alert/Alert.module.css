@@ -1,0 +1,17 @@
+.warn {
+  background-color: crimson;
+  color: white;
+  padding: 0.5rem 1rem;
+  margin-bottom: 1rem;
+  border-radius: 0.125rem;
+  text-align: center;
+}
+
+.success {
+  background-color: forestgreen;
+  color: white;
+  padding: 0.5rem 1rem;
+  margin-bottom: 1rem;
+  border-radius: 0.125rem;
+  text-align: center;
+}
